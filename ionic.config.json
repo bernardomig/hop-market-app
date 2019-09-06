@@ -1,0 +1,7 @@
+{
+  "name": "hop-market",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
